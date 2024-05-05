@@ -1,7 +1,7 @@
 # Aditya's Portfolio
 
 ## Introduction
-Welcome to Github Page. My name is Aditya Upadhyay. I am a college student and passionated to be a Web Developer.
+Welcome to my Github Page. My name is Aditya Upadhyay. I am a college student and passionated to be a Web Developer.
 
 ## Skills
 - Python
@@ -13,9 +13,6 @@ Welcome to Github Page. My name is Aditya Upadhyay. I am a college student and p
 - [Project 1](link-to-project): Description of Project 1.
 - [Project 2](link-to-project): Description of Project 2.
 - [Project 3](link-to-project): Description of Project 3.
-
-## Goals
-Aditya aims to hone his programming skills and build a career as a Python developer or app developer.
 
 ## Education
 - College: Rajasthan Technical Universty,Rajsthan.
