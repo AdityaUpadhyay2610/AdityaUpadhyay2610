@@ -1,7 +1,7 @@
 # Aditya's Portfolio
 
 ## Introduction
-Welcome to Aditya's GitHub repository! Aditya is a college student passionate about programming and aspiring to become a Python developer and app developer.
+Welcome to Github Page. My name is Aditya Upadhyay. I am a college student and passionated to be a Web Developer.
 
 ## Skills
 - Python
