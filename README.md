@@ -13,7 +13,7 @@ Hi, I'm Aditya Upadhyay, a student with a passion for Full Stack Developer. This
 
 ### Development Frameworks
 
-* **React**: 70% [████████████████]
+* **React**: 30% [████]
 
 ### Databases
 
