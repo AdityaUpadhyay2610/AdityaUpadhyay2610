@@ -10,7 +10,7 @@ Hi, I'm Aditya Upadhyay, a student with a passion for Full Stack Developer. This
 
 * **JavaScript**: 60% [████████████████]
 * **Java**: 40% [████████]
-
+* **Kotlin**: 20% [███████]
 ### Development Frameworks
 
 * **React**: 30% [████]
