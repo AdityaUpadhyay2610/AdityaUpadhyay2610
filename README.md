@@ -25,7 +25,7 @@ A motivated and detail-oriented Android developer focused on building well‑arc
 
 ## Selected Projects
 
-### GroCart — Android Grocery App
+## 1. GroCart — Android Grocery App
 A complete sample grocery shopping application implemented with Jetpack Compose and modern Android architecture demonstrating an end‑to‑end consumer flow.
 
 Highlights:
@@ -36,10 +36,10 @@ Highlights:
 - Architecture: MVVM + ViewModel + StateFlow, Kotlin Coroutines, Coil for image loading
 - Theming with light/dark support and clean separation of UI/business logic
 
-## Library Managment System
+## 2. Library Managment System
 A full-stack automated library system built with Spring Boot, featuring automated email notifications, fine calculation, and role-based security.
 
-## Key Features
+ Key Features
 - 🔐 Role-Based Security: Secure login for Admins and Students (Spring Security + BCrypt).
 - 📧 Automated Notifications: * Instant email confirmation when a book is issued.
   - Daily Scheduler: Automatically checks for overdue books every morning and emails students.
@@ -47,7 +47,7 @@ A full-stack automated library system built with Spring Boot, featuring automate
 - 📊 Interactive Dashboard: Real-time statistics (Total Books, Active Issued, Pending Fines) with a modern Glass UI.
 - 🔎 Search & Inventory: Live search for students and books without page reloads.
 
-## TextUtils
+## 3. TextUtils
 
 ---
 
