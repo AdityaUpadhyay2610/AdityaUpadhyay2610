@@ -36,27 +36,23 @@ Highlights:
 - Architecture: MVVM + ViewModel + StateFlow, Kotlin Coroutines, Coil for image loading
 - Theming with light/dark support and clean separation of UI/business logic
 
-Why it matters: showcases real‑world mobile patterns — authentication, product listing, cart/checkout flows, and maintainable architecture.
+## Library Managment System
+A full-stack automated library system built with Spring Boot, featuring automated email notifications, fine calculation, and role-based security.
 
----
+## Key Features
+- 🔐 Role-Based Security: Secure login for Admins and Students (Spring Security + BCrypt).
+- 📧 Automated Notifications: * Instant email confirmation when a book is issued.
+  - Daily Scheduler: Automatically checks for overdue books every morning and emails students.
+- 💰 Smart Fine System: Automatically calculates late fees (₹10/day) based on the return date.
+- 📊 Interactive Dashboard: Real-time statistics (Total Books, Active Issued, Pending Fines) with a modern Glass UI.
+- 🔎 Search & Inventory: Live search for students and books without page reloads.
 
-### TextUtils — Web Utility App
-A responsive web application offering text utilities and small productivity tools.
-
-Highlights:
-- Speech‑to‑Text: convert spoken input to editable text
-- Word count and reading time estimation
-- Text preview and mode/theme switching for readability
-- Small utilities: BMI calculator and simple arithmetic calculator
-- Fully responsive UI suitable for desktop and mobile
-
-Why it matters: practical utilities demonstrating frontend design, accessibility considerations, and responsive behavior.
+## TextUtils
 
 ---
 
 ## Education
 - Currently in 3rd year of undergraduate studies (focused on software engineering and mobile development).
-
 ---
 
 ## Goals & Interests
