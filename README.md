@@ -48,7 +48,16 @@ A full-stack automated library system built with Spring Boot, featuring automate
 - 🔎 Search & Inventory: Live search for students and books without page reloads.
 
 ## 3. TextUtils
+A sleek, Compose-based app for real-time text manipulation and voice input.
 
+Features
+- Type or paste text, instantly edit with powerful operations.
+- Transformations: Uppercase, lowercase, title case, trim/reverse/remove spaces, clear all.
+- Copy to clipboard with one tap.
+- Speech-to-Text: Tap the mic, speak—capture voice as text.
+- Real-time stats: Word & character counts + preview.
+- Dark/Light Theme: Adapts to system settings.
+- Modern Jetpack Compose UI: Fast, smooth, accessible.
 ---
 
 ## Education
